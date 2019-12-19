@@ -1,0 +1,49 @@
+{
+    "name": "OData.org",
+    "description": "<p>OData (Open Data Protocol) is an OASIS standard that defines the best practice for building and consuming RESTful APIs. OData helps you focus on your business logic while building RESTful APIs without having to worry about the approaches to define request and response headers, status codes, HTTP methods, URL conventions, media types, payload formats and query options etc.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/odata-logo.png",
+    "tags": [
+        "api service provider",
+        "definitions",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/odata-org\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OData.org",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/odata-logo.png",
+            "humanURL": "http:\/\/www.odata.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/odata-org-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.odata.org\/blog\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/odata"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/odataorg"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.odata.org\/"
+        }
+    ]
+}
